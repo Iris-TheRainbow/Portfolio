@@ -11,11 +11,8 @@ function generateElements(){
                 <div>
                     <button onclick="window.location.href='gallery'">Gallery</button>
                 </div>
-                <div>
-                    <button onclick="window.location.href='contactme'">Contact Me</button>
-                </div>
                 <div style="float: right;">
-                    <button onclick="window.location.href='mailto:snazzsinclair@gmail.com'">Contact me!</button>
+                    <button onclick="window.location.href='contact'">Contact me!</button>
                 </div>
             </div>
     `

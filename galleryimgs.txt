@@ -1,0 +1,3 @@
+testimg1.png
+testimg2.png
+testimg3.jpg
