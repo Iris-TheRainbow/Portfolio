@@ -13,6 +13,7 @@ function generateElements(){
                 </div>
                 <div>
                     <button onclick="window.location.href='contactme'">Contact Me</button>
+                </div>
                 <div style="float: right;">
                     <button onclick="window.location.href='mailto:snazzsinclair@gmail.com'">Contact me!</button>
                 </div>
