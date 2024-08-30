@@ -63,6 +63,7 @@ button {
     opacity: 65%;
     align-content: center;
     outline: 2px solid #74c7ec;
+    width: fit-content;
 }
 
 button:hover{
