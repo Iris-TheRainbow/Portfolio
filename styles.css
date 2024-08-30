@@ -1,0 +1,111 @@
+body {
+    padding: 0px;
+    background-color: #1e1e2e;
+    color: #cdd6f4;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: 0px;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    padding-top: 0;
+    align-content: center;
+    max-width: 70%;
+}
+@media only screen and (max-width: 600px){
+    .center {
+        max-width: 90%
+    }
+}
+p {
+    font-size: 1.5rem;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+h1 {
+    text-align: center;
+    font-size: 3.5rem;
+}
+h2 {
+    font-size: 2.5rem;
+}
+.img{
+    width: 40%;
+    padding: 1%;
+}
+a:link, a:visited {
+    color: #74c7ec;
+}
+
+a:hover {
+    color:#b4befe;
+    cursor: pointer;
+}
+a:active{
+    color:#b4befe;
+}
+hr{
+    opacity: 65%;
+    max-width: 120%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #313244;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size:1.5rem;
+    opacity: 65%;
+    align-content: center;
+    outline: 2px solid #74c7ec;
+}
+
+button:hover{
+    opacity: 100%;
+    cursor: pointer;    
+}
+
+button img {
+    height: auto;
+    width: 15%; 
+    border-radius: 20%; 
+    background-color: azure; 
+    margin-top: .5vw;
+    height: fit-content;
+}
+
+.footerContainer {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding: 8px;
+    align-content: center;
+    display: flexbox;
+}
+
+.footerContainer div{
+    float: left;
+    width: auto;
+    margin-left: .25%;
+    margin-right: .25%;
+    margin-bottom: .75%;
+}
+
+.headderContainer{
+    display: flex;
+    background-color: #313244;
+    padding: 1%;
+}
+
+.headderColumn{
+    float: left;
+    margin-left: .25%;
+    margin-right: .25%;
+    width: fit-content;
+}
