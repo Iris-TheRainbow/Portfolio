@@ -118,7 +118,7 @@ button img {
     display: flexbox;
 }   
 .galleryContainer div{
-    max-width: calc(32 - 20px);
+    width: calc(32% - 20px);
     margin: 10px;
     float: left;
 }
