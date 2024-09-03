@@ -123,7 +123,6 @@ button img {
     float: left;
 }
 .galleryColumn div img{
-    max-width: 100%;
+    width: calc(32% - 20px);
     margin-bottom: 10px;
-
 }   
