@@ -26,5 +26,4 @@ function generateGallery(){
 
         })
         .catch((e) => console.error(e));
-
 }
