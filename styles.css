@@ -115,12 +115,15 @@ button img {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    display: flexbox;
 }   
-
-.galleryContainer img {
-    max-width: calc(32% - 20px);
-    height: fit-content;
-    max-height: 50%;
+.galleryContainer div{
+    max-width: calc(32 - 20px);
     margin: 10px;
-    background-color: azure;
+    float: left;
+}
+.galleryColumn div img{
+    max-width: 100%;
+    margin-bottom: 10px;
+
 }   
