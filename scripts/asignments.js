@@ -35,5 +35,3 @@ function generateAsignments() {
       .catch(e => console.error(e));
   }
   
-  generateAsignments();
-  
