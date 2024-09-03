@@ -6,7 +6,7 @@ function generateElements(){
                     <button onclick="window.location.href='about'">About Me</button>
                 </div>
                 <div>
-                    <button onclick="window.location.href='asignments'">Asignments</button>
+                    <button onclick="window.location.href='assignments'">Assignments</button>
                 </div>
                 <div>
                     <button onclick="window.location.href='gallery'">Gallery</button>
