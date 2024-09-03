@@ -1,3 +1,8 @@
+@keyframes changeOutlineColor  {
+    from {outline-color: #74c7ec;}
+    to {outline-color: #b4befe;}
+}
+
 body {
     padding: 0px;
     background-color: #1e1e2e;
@@ -68,7 +73,10 @@ button {
 
 button:hover{
     opacity: 100%;
-    cursor: pointer;    
+    cursor: pointer;
+    outline: 2px solid #b4befe;
+    animation-name: changeOutlineColor;
+    animation-duration: 1s;
 }
 
 button img {
@@ -126,3 +134,4 @@ button img {
     width: 100%;
     margin-bottom: 10px;
 }   
+
