@@ -11,14 +11,17 @@ function generateGallery(){
                 if (x == 0) {
                     string0 += "<img src=\"" + imgs[i] + "\"> "
                     x += 1
+                    continue
                 }
                 if (x == 1){
                     string1 += "<img src=\"" + imgs[i] + "\"> "
                     x += 1
+                    continue
                 }
                 if (x == 2){
                     string2 += "<img src=\"" + imgs[i] + "\"> "
                     x = 0
+                    continue
                 }
             }
             document.getElementById("images0").innerHTML = string0;

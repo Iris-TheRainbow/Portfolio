@@ -22,12 +22,4 @@ function generateElements(){
                 <button onclick="window.location.href='/'" style="font-size: 350%; width: fit-content; background-color: #202020;"> Jazz's Portfolio</button>
             </div>
         </div>`
-
-    if (navigator.userAgent.match(/Android/i)
-        || navigator.userAgent.match(/webOS/i)
-        || navigator.userAgent.match(/iPhone/i)
-        || navigator.userAgent.match(/iPad/i)
-        || navigator.userAgent.match(/iPod/i)){
-        var mobile = true;
-    }
 }
