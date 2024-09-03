@@ -1,6 +1,6 @@
 @keyframes changeOutlineColor  {
     from {outline-color: #74c7ec; opacity: 65%;}
-    to {outline-color: #b4befe; opacity: 100%;}
+    to {outline-color: #cba6f7; opacity: 100%;}
 }
 
 body {
@@ -74,9 +74,9 @@ button {
 button:hover{
     opacity: 100%;
     cursor: pointer;
-    outline: 2px solid #b4befe;
+    outline: 2px solid #cba6f7;
     animation-name: changeOutlineColor;
-    animation-duration: 2s;
+    animation-duration: .5s;
 }
 
 button img {
