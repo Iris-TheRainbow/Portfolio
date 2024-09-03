@@ -1,3 +1,0 @@
-img/testimg1.png
-img/testimg2.png
-img/testimg3.jpg
