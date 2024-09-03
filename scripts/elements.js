@@ -3,10 +3,10 @@ function generateElements(){
             <div class="footerContainer">
                 <hr>
                 <div>
-                    <button onclick="window.location.href='robots'">About Me</button>
+                    <button onclick="window.location.href='about'">About Me</button>
                 </div>
                 <div>
-                    <button onclick="window.location.href='sponsors'">Asignments</button>
+                    <button onclick="window.location.href='asignments'">Asignments</button>
                 </div>
                 <div>
                     <button onclick="window.location.href='gallery'">Gallery</button>

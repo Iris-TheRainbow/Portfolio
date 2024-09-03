@@ -2,6 +2,7 @@ function generateGallery(){
     let string0 = "";
     let string1 = "";
     let string2 = "";
+    let x = 0;
     fetch("/galleryimgs.txt")
         .then((res) => res.text())
         .then((text) => {
