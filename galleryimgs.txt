@@ -1,0 +1,8 @@
+img/homework1_2.jpg
+img/homework1_3.jpg
+img/homework1_4.jpg
+img/testimg3.jpg
+img/homework1_1.jpg
+img/testimg1.png
+img/homework1_5.jpg
+img/testimg2.png
