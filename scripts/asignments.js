@@ -21,7 +21,7 @@ function generateAsignments() {
                 json.asginments[i].images[j] +
                 ' " style="width: calc(' +
                 String((1 / json.asignments[i].images.length) * 100 - 1) +
-                '-10px)">';
+                '% - 10px);">';
             }
             string += '</div>';
           } else {
