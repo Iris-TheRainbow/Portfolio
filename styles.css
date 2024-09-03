@@ -110,3 +110,17 @@ button img {
     margin-right: .25%;
     width: fit-content;
 }
+
+.galleryContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}   
+
+.galleryContainer img {
+    max-width: calc(32% - 20px);
+    height: fit-content;
+    max-height: 50%;
+    margin: 10px;
+    background-color: azure;
+}   
