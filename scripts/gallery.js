@@ -1,6 +1,6 @@
 function generateGallery(){
     let string = "";
-    fetch("Portfilio/galleryimgs.txt")
+    fetch("/galleryimgs.txt")
         .then((res) => res.text())
         .then((text) => {
             let imgs = text.split("\n");

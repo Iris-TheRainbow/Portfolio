@@ -19,7 +19,7 @@ function generateElements(){
     document.getElementById("headder").innerHTML = `
         <div class="headderContainer">
             <div class="headderColumn" style="width: fit-content; display: flex;">
-                <button onclick="window.location.href='/Portfolios/'" style="font-size: 350%; width: fit-content; background-color: #202020;"> Jazz's Portfolio</button>
+                <button onclick="window.location.href='/'" style="font-size: 350%; width: fit-content; background-color: #202020;"> Jazz's Portfolio</button>
             </div>
         </div>`
 
