@@ -117,12 +117,12 @@ button img {
     justify-content: space-between;
     display: flexbox;
 }   
-.galleryContainer div{
+.galleryColumn{
     width: calc(32% - 20px);
     margin: 10px;
     float: left;
 }
-.galleryColumn div img{
-    width: calc(32% - 20px);
+.galleryColumn img{
+    width: 100%;
     margin-bottom: 10px;
 }   
