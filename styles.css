@@ -194,6 +194,7 @@ button img {
 }
 
 .short img{
+    float: none;
     max-width: 100%;
     max-height: 500px;
     margin-left: auto;
