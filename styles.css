@@ -1,10 +1,14 @@
 @keyframes changeOutlineColor  {
     from {outline-color: #74c7ec; opacity: 65%; scale: 1;}
-    to {outline-color: #cba6f7; opacity: 100%; scale: .9;}
+    to {outline-color: #cba6f7; opacity: 100%; scale: .95;}
 }
 @keyframes returnOutlineColor  {
-    from {outline-color: #cba6f7; opacity: 100%; scale: .9;}
+    from {outline-color: #cba6f7; opacity: 100%; scale: .95;}
     to {outline-color: #74c7ec; opacity: 65%; scale: 1;}
+}
+@keyframes buttonClick{
+    from {scale: .95;}
+    to {scale: .9;}
 }
 
 body {
@@ -74,6 +78,12 @@ button {
     outline: 2px solid #74c7ec;
     width: fit-content;
     color: #cdd6f4;
+}
+
+button:active{
+    scale: .9;
+    animation-name: buttonClick;
+    animation-duration: .1;
 }
 
 button:hover{
