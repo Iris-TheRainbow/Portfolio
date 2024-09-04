@@ -84,7 +84,7 @@ button:hover{
     animation-duration: .35s;
 }
 
-button:hover::after{
+button:not(:hover){
     animation-name: returnOutlineColor;
     animation-duration: .35s;
 }
