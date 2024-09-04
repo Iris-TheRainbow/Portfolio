@@ -80,7 +80,7 @@ button {
     color: #cdd6f4;
 }
 
-button:focus{
+button:active{
     scale: .9;
     animation-name: buttonClick;
     animation-duration: .1;
