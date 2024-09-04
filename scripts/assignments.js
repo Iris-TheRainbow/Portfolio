@@ -12,7 +12,7 @@ function generateAssignments() {
             short = ""
           }
           console.log(short)
-          string += '<div>';
+          string += '<div class="asignment">';
             string += '<div ' + short + '>';
                 string += '<h2>';
                     string += assignment.name;

@@ -166,20 +166,23 @@ button img {
 }
 
 .assignments div{
-    width: 100%;
     float: left;
-    outline: 2px solid #74c7ec;
     background-color: #313244;
     opacity: 70%;
     margin: 5px
 }
 
-.assignments div:hover{
+.asignment {
+    width: 100%;
+    outline: 2px solid #74c7ec;
+}
+
+.assignment:hover{
     animation-name: changeOutlineColor;
     animation-duration: .25s;
 }
 
-.assignments div:not(:hover){
+.assignment:not(:hover){
     animation-name: returnOutlineColor;
     animation-duration: .25s;
 }
