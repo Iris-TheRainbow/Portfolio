@@ -1,6 +1,6 @@
 @keyframes changeOutlineColor  {
     from {outline-color: #74c7ec; opacity: 65%; scale: 1;}
-    to {outline-color: #cba6f7; opacity: 100%; scale: .0;}
+    to {outline-color: #cba6f7; opacity: 100%; scale: .9;}
 }
 @keyframes returnOutlineColor  {
     from {outline-color: #cba6f7; opacity: 100%; scale: .9;}
