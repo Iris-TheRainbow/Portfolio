@@ -169,24 +169,11 @@ button img {
 
 .assignments div{
     float: left;
-    background-color: #313244;
-    opacity: 70%;
     margin: 5px
 }
 
 .asignment {
     width: 100%;
-    outline: 2px solid #74c7ec;
-}
-
-.assignment div:hover{
-    animation-name: changeOutlineColor;
-    animation-duration: .25s;
-}
-
-.assignment div:not(:hover){
-    animation-name: returnOutlineColor;
-    animation-duration: .25s;
 }
 
 .short{
