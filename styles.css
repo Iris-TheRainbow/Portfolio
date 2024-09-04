@@ -182,6 +182,7 @@ button img {
 
 .short{
     width: calc(50% - 10px);
+    margin: 5px
 }
 
 .short img{
