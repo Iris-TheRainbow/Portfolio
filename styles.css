@@ -1,10 +1,10 @@
 @keyframes changeOutlineColor  {
-    from {outline-color: #74c7ec; opacity: 65%; scale: 1;}
+    from {outline-color: #74c7ec; opacity: 70%; scale: 1;}
     to {outline-color: #cba6f7; opacity: 100%; scale: .95;}
 }
 @keyframes returnOutlineColor  {
     from {outline-color: #cba6f7; opacity: 100%; scale: .95;}
-    to {outline-color: #74c7ec; opacity: 65%; scale: 1;}
+    to {outline-color: #74c7ec; opacity: 70%; scale: 1;}
 }
 @keyframes buttonClick{
     from {scale: .95;}
@@ -59,7 +59,7 @@ a:active{
     color:#b4befe;
 }
 hr{
-    opacity: 65%;
+    opacity: 70%;
     max-width: 120%;
     margin-top: 15px;
     margin-bottom: 15px;
@@ -73,7 +73,7 @@ button {
     text-align: center;
     text-decoration: none;
     font-size:1.5rem;
-    opacity: 65%;
+    opacity: 70%;
     align-content: center;
     outline: 2px solid #74c7ec;
     width: fit-content;
@@ -165,6 +165,19 @@ button img {
 
 .assignments div{
     float: left;
+    outline: 2px solid #74c7ec;
+    background-color: #313244;
+    opacity: 70%;
+}
+
+.assignments div:hover{
+    animation-name: changeOutlineColor;
+    animation-duration: .25s;
+}
+
+.assignments div:not(:hover){
+    animation-name: returnOutlineColor;
+    animation-duration: .25s;
 }
 
 .short{
