@@ -177,12 +177,12 @@ button img {
     outline: 2px solid #74c7ec;
 }
 
-.assignment:hover{
+.assignment div:hover{
     animation-name: changeOutlineColor;
     animation-duration: .25s;
 }
 
-.assignment:not(:hover){
+.assignment div:not(:hover){
     animation-name: returnOutlineColor;
     animation-duration: .25s;
 }
