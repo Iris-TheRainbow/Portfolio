@@ -2,6 +2,10 @@
     from {outline-color: #74c7ec; opacity: 65%;}
     to {outline-color: #cba6f7; opacity: 100%;}
 }
+@keyframes returnOutlineColor  {
+    from {outline-color: #cba6f7; opacity: 100%;}
+    to {outline-color: #74c7ec; opacity: 65%;}
+}
 
 body {
     padding: 0px;
@@ -69,6 +73,7 @@ button {
     align-content: center;
     outline: 2px solid #74c7ec;
     width: fit-content;
+    color: #cdd6f4;
 }
 
 button:hover{
@@ -76,7 +81,12 @@ button:hover{
     cursor: pointer;
     outline: 2px solid #cba6f7;
     animation-name: changeOutlineColor;
-    animation-duration: .5s;
+    animation-duration: .35s;
+}
+
+button:hover::after{
+    animation-name: returnOutlineColor;
+    animation-duration: .35s;
 }
 
 button img {
