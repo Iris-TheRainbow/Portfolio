@@ -168,6 +168,7 @@ button img {
     outline: 2px solid #74c7ec;
     background-color: #313244;
     opacity: 70%;
+    margin: 5px
 }
 
 .assignments div:hover{
