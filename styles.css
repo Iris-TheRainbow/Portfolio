@@ -63,7 +63,7 @@ hr{
     max-width: 120%;
     margin-top: 15px;
     margin-bottom: 15px;
-    color: #74c7ec;
+    border-color: 2px solid #74c7ec;
 }
 
 button {
@@ -133,7 +133,7 @@ button img {
     display: flex;
     background-color: #181825;
     padding: 1%;
-    border: 2px solid #74c7ec;
+    border-bottom: 2px solid #74c7ec;
 }
 
 .headderColumn{
