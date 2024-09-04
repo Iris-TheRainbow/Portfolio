@@ -149,7 +149,7 @@ button img {
 }   
 .galleryColumn{
     width: calc(32% - 10px);
-    margin: 10px;
+    margin: 5px;
     float: left;
 }
 .galleryColumn img{
