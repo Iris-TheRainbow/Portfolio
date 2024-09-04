@@ -148,13 +148,13 @@ button img {
     display: flexbox;
 }   
 .galleryColumn{
-    width: calc(32% - 20px);
+    width: calc(32% - 10px);
     margin: 10px;
     float: left;
 }
 .galleryColumn img{
     width: 100%;
-    margin-bottom: 10px;
+    margin: 5px;
     outline: 2px solid #74c7ec;
     border-radius: 10px;
 }   
