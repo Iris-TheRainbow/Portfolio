@@ -22,7 +22,7 @@ body {
     align-content: center;
     max-width: 70%;
 }
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 1000px){
     .center {
         max-width: 90%
     }
