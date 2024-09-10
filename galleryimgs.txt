@@ -1,6 +1,7 @@
 img/homework1_2.jpg
 img/homework1_3.jpg
 img/homework1_4.jpg
+img/JA_lesson3B@3x.jpg
 img/testimg3.jpg
 img/homework1_1.jpg
 img/testimg1.png
