@@ -6,14 +6,14 @@
             "images": ["img/homework1_2.jpg", "img/homework1_1.jpg", "img/homework1_3.jpg", "img/homework1_4.jpg", "img/homework1_5.jpg"]
         },
         {
-            "name": "Rose Birthday Card",
-            "description": "This was a first project to get used to the basics of photshop.",
-            "images": ["img/testimg2.png"]
+            "name": "History 401 Asignment",
+            "description": "This was a first project to get used to the basics of photshop. We learned about generative AI, colors, and blending.",
+            "images": ["img/lesson3.jpg"]
         },
         {
             "name": "Pineapple Hawaii Postcard",
-            "description": "This asignment taught us about using layers within photoshop",
-            "images": ["img/testimg3.jpg"]
+            "description": "This asignment taught us about using layers within photoshop, as well as a lot about effects",
+            "images": ["img/lesson4.jpg"]
         },
         {
             "name": "The Family On the Bridge",
