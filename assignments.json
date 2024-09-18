@@ -17,8 +17,8 @@
         },
         {
             "name": "The Family On the Bridge",
-            "description": "I learned how to correct photos with the healing tools.",
-            "images": ["img/testimg1.png"]
+            "description": "I learned how to correct photos with the healing tools. I was able to remove spots and scratches, denoise with filters, and sharpen a blury image.",
+            "images": ["img/lesson5.jpg"]
         }
     ]
 }
