@@ -7,17 +7,17 @@
         },
         {
             "name": "History 301 Asignment",
-            "description": "This was a first project to get used to the basics of photshop. We learned about generative AI, colors, and blending.",
+            "description": "This was a first project to get used to the basics of photshop. We learned about how we can and can't use generative AI during this lesson. We also learned about the basics of brushes and the tools we will use every day in our class.",
             "images": ["img/lesson3.jpg"]
         },
         {
             "name": "Pineapple Hawaii Postcard",
-            "description": "This asignment taught us about using layers within photoshop, as well as a lot about effects",
+            "description": "This asignment taught us about using layers within photoshop, as well as a lot about effects. We learned how to put borders around things",
             "images": ["img/lesson4.jpg"]
         },
         {
             "name": "The Family On the Bridge",
-            "description": "I learned how to correct photos with the healing tools. I was able to remove spots and scratches, denoise with filters, and sharpen a blury image.",
+            "description": "I learned how to correct photos with the healing tools. I was able to remove spots and scratches, denoise with filters, and sharpen a blury image. We also learned how to recolor images.",
             "images": ["img/lesson5.jpg"]
         }
     ]
