@@ -19,6 +19,11 @@
             "name": "The Family On the Bridge",
             "description": "I learned how to correct photos with the healing tools. I was able to remove spots and scratches, denoise with filters, and sharpen a blury image. We also learned how to recolor images.",
             "images": ["img/lesson5.jpg"]
+        },
+        {
+            "name": "Retouching Practice",
+            "description": "I practiced all my retouching tools to prepair for my large retouching asingment. I reviewed using AI to retouch, recoloring badly faded images, and also reviewed all my basic retouching tools. I also got to do a retouching on my own",
+            "images": ["img/lesson61.jpg", "img/lesson61.jpg", "img/lesson62.jpg", "img/lesson63.jpg", "img/lesson64.jpg", "img/lesson65.jpg", "img/lesson66.jpg"]
         }
     ]
 }
