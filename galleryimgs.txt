@@ -1,13 +1,10 @@
 img/lesson63.jpg
 img/lesson61.jpg
-img/testimg3.jpg
 img/homework1_1.jpg
 img/lesson3.jpg
-img/testimg1.png
 img/lesson4.jpg
 img/lesson5.jpg
 img/lesson65.jpg
-img/testimg2.png
 img/homework1_3.jpg
 img/homework1_2.jpg
 img/homework1_4.jpg
