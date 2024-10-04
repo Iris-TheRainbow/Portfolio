@@ -1,5 +1,6 @@
 img/lesson63.jpg
 img/lesson61.jpg
+img/retouch1b.jpg
 img/homework1_1.jpg
 img/lesson3.jpg
 img/lesson4.jpg
@@ -7,6 +8,7 @@ img/lesson5.jpg
 img/lesson65.jpg
 img/homework1_3.jpg
 img/homework1_2.jpg
+img/retouch1a.jpg
 img/homework1_4.jpg
 img/lesson66.jpg
 img/selfie.png
