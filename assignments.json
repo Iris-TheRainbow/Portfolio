@@ -24,6 +24,11 @@
             "name": "Retouching Practice",
             "description": "I practiced all my retouching tools to prepair for my large retouching asingment. I reviewed using AI to retouch, recoloring badly faded images, and also reviewed all my basic retouching tools. I also got to do a retouching on my own",
             "images": ["img/lesson61.jpg", "img/lesson62.jpg", "img/lesson63.jpg", "img/lesson64.jpg", "img/lesson65.jpg", "img/lesson66.jpg"]
+        },
+        {
+            "name": "Personal Retouching Project",
+            "description": "This was a personal project where I worked alone to retouch and repair and image. The image I chose was brutal to work on and I'm not 100% happy with the final result, however it still turned out well and tehre is a lot of improvement from the origonal. I had to recolor it and then remove all sorts of scratches, missiing sections, dirt, and stains from the image.",
+            "images": ["img/retouch1b.jpg", "img/retouch1a.jpg"]
         }
     ]
 }
