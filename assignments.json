@@ -22,7 +22,7 @@
         },
         {
             "name": "6. Photo Repair Practice- Part 1 (all 4 photos)",
-            "description": "I practiced all my retouching tools to prepair for my large retouching asingment. I reviewed using AI to retouch, recoloring badly faded images, and also reviewed all my basic retouching tools. I also got to do a retouching on my own",
+            "description": "I practiced all my retouaching tools to prepair for my large retouching asingment. I reviewed using AI to retouch, recoloring badly faded images, and also reviewed all my basic retouching tools. I also got to do a retouching on my own",
             "images": ["img/lesson61.jpg", "img/lesson62.jpg", "img/lesson63.jpg", "img/lesson64.jpg", "img/lesson65.jpg", "img/lesson66.jpg"]
         },
         {
@@ -36,9 +36,14 @@
             "images": ["img/lesson61.jpg"]
         },
         {
-            "name": "8. Personal Retouching Photo my (before and after)",
+            "name": "8. Personal Retouching Photo (before and after)",
             "description": "This was a personal project where I worked alone to retouch and repair and image. The image I chose was brutal to work on and I'm not 100% happy with the final result, however it still turned out well and tehre is a lot of improvement from the origonal. I had to recolor it and then remove all sorts of scratches, missiing sections, dirt, and stains from the image.",
             "images": ["img/retouch1b.jpg", "img/retouch1a.jpg"]
-        }
+        },
+        {
+            "name": "10.",
+            "description": "I used selection and warping tools to shrink myself down while workning on my laptop. Mini me was edited to open the giant laptop, design robot parts, and standing there happily when everything is done. I used selction tools like the magnetic lasso and the object selection too to make it possible.",
+            "images": ["img/lesson101.jpg", "img/lesson102.jpg", "img/lesson103.jpg", "img/lesson104.jpg"]
+        },
     ]
 }
