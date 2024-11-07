@@ -11,7 +11,7 @@
             "images": ["img/lesson3.jpg"]
         },
         {
-            "name": "3. Getting to Know Your Work Area - History Title Page",
+            "name": "4. Layer Basics - Pineapple Hawaii Postcard",
             "description": "This asignment taught us about using layers within photoshop, as well as a lot about effects. We learned how to put borders around things",
             "images": ["img/lesson4.jpg"]
         },
@@ -21,17 +21,17 @@
             "images": ["img/lesson5.jpg"]
         },
         {
-            "name": "6. Photo Repair Practice- Part 1 (all 4 photos)",
+            "name": "6. Photo Repair Practice - Part 1",
             "description": "I practiced all my retouaching tools to prepair for my large retouching asingment. I reviewed using AI to retouch, recoloring badly faded images, and also reviewed all my basic retouching tools. I also got to do a retouching on my own",
             "images": ["img/lesson61.jpg", "img/lesson62.jpg", "img/lesson63.jpg", "img/lesson64.jpg", "img/lesson65.jpg", "img/lesson66.jpg"]
         },
         {
-            "name": "name",
+            "name": "6. Photo Repair Practice - Part 2",
             "description": "desc",
             "images": ["img/lesson61.jpg"]
         },
         {
-            "name": "name",
+            "name": "6. Photo Repair Practice - Part 4",
             "description": "desc",
             "images": ["img/lesson61.jpg"]
         },
@@ -41,9 +41,19 @@
             "images": ["img/retouch1b.jpg", "img/retouch1a.jpg"]
         },
         {
-            "name": "10.",
+            "name": "10. Personal Photobomb Storyboard - all 4 images",
             "description": "I used selection and warping tools to shrink myself down while workning on my laptop. Mini me was edited to open the giant laptop, design robot parts, and standing there happily when everything is done. I used selction tools like the magnetic lasso and the object selection too to make it possible.",
             "images": ["img/lesson101.jpg", "img/lesson102.jpg", "img/lesson103.jpg", "img/lesson104.jpg"]
+        }, 
+        {
+            "name": "11. ",
+            "description": "...",
+            "images": []
+        }
+        {
+            "name": "12. Advanced Compositing",
+            "description": "...",
+            "images": []
         }
     ]
 }
