@@ -27,7 +27,7 @@
         },
         {
             "name": "6. Photo Repair Practice - Part 2",
-            "description": "desc",
+            "description": "I learned how to use Generative AI when I edited a photo of a dad. I used it to switch his jersy.",
             "images": ["img/lesson61.jpg"]
         },
         {
@@ -36,9 +36,19 @@
             "images": ["img/lesson61.jpg"]
         },
         {
-            "name": "8. Personal Retouching Photo (before and after)",
+            "name": "7. Quick Fixes",
+            "description": "I learned how to make small, quick fixes to photos. One of the best tools was the red eye tool, to remove red eyes from phtos in on click.",
+            "images": ["img/lesson61.jpg"]
+        },
+        {
+            "name": "8. Personal Retouching Photo",
             "description": "This was a personal project where I worked alone to retouch and repair and image. The image I chose was brutal to work on and I'm not 100% happy with the final result, however it still turned out well and tehre is a lot of improvement from the origonal. I had to recolor it and then remove all sorts of scratches, missiing sections, dirt, and stains from the image.",
             "images": ["img/retouch1b.jpg", "img/retouch1a.jpg"]
+        },
+        {
+            "name": "9. Working with Selections - shell collage",
+            "description": "I used many slection tools to move shells in an image. One of the coolest was the object selection tool, it got objects very quickly. Also, the magnetic lasso is a good mix of automatic and freeform.",
+            "images": ["img/lesson61.jpg"]
         },
         {
             "name": "10. Personal Photobomb Storyboard - all 4 images",
@@ -46,14 +56,39 @@
             "images": ["img/lesson101.jpg", "img/lesson102.jpg", "img/lesson103.jpg", "img/lesson104.jpg"]
         }, 
         {
-            "name": "11. ",
-            "description": "...",
+            "name": "11. Masks, Patterns, Type Designs ",
+            "description": "We learned a ton about masks and paterns. We made this star patern for the background and also learned a bit about text tracking.",
             "images": []
-        }
+        },
         {
             "name": "12. Advanced Compositing",
-            "description": "...",
+            "description": "We created a fake posted based on compositing things from Frankenstien's Monster's body onto a person. We also overlayed many images. On top of that, we used some custom text.",
             "images": []
+        },
+        {
+            "name": "13. Any 1 practice painting photo",
+            "description": "I painted an apple and shaded it. Blending colors was quite difficult and took me many tries. The mixer brush can be quite unwiedly, but after I learned to make a selection to paint in, it got a lot better",
+            "images": ["img/lesson61.jpg"]
+        },
+        {
+            "name": "14. Personal Painting Project",
+            "description": "I took this chance to do a very complicted painting. I painted a kitten that I found at a friends house because of its fur color. I think it turned out quite well and my skill at the mixer brush greatly improved.",
+            "images": ["img/lesson61.jpg"]
+        },
+        {
+            "name": "15. Any 2 Fun Layout Design Options",
+            "description": "desc",
+            "images": ["img/lesson61.jpg"]
+        },
+        {
+            "name": "16. Movie Poster",
+            "description": "I got to make a mostly self guided movie poster. I decided to try and recreate the StarWars: The Force Awakens poster in the style of the StarWars: Return of the Jedi style. I composited and filtered a ton  of images together to make it possible",
+            "images": ["img/lesson61.jpg"]
+        },
+        {
+            "name": "17. Homework Photo Editing",
+            "description": "I got a final chance to correct my homework photos. I got to color correct so many photos that I took already and that alonew as the biggest change I could imagine. I also messed with contrast and reased small blemishes.",
+            "images": ["img/lesson61.jpg"]
         }
     ]
 }
