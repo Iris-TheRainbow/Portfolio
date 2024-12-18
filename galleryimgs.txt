@@ -16,10 +16,12 @@ img/lesson103.jpg
 img/lesson61.jpg
 img/app_e.jpg
 img/lesson101.jpg
+img/selfie.jpeg
 img/lesson4.jpg
 img/JA_7_thistle.jpg
 img/ja_catbt.jpg
 img/retouch1b.jpg
+img/forceawakens.jpg
 img/homework1_4.jpg
 img/JA_7_tren.jpg
 img/JA_11AStart_updated2WB.jpg
@@ -27,9 +29,9 @@ img/retouch1a.jpg
 img/lesson5.jpg
 img/homework1_2.jpg
 img/JA_7_columns.jpg
-img/selfie.png
 img/JA_4th_15P1.jpg
 img/homework1_1.jpg
 img/lesson63.jpg
 img/lesson65.jpg
+img/selfie0.png
 img/lesson3.jpg
