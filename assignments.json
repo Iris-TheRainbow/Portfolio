@@ -1,94 +1,9 @@
 {
     "assignments": [
         {
-            "name": "Five Homework Photos",
-            "description": "Over our semester, we were required to take five photos every two weeks to teach us about the basics of photography. Here are some of the photos I took.",
-            "images": ["img/homework1_2.jpg", "img/homework1_1.jpg", "img/homework1_3.jpg", "img/homework1_4.jpg", "img/homework1_5.jpg"]
-        },
-        {
-            "name": "3. Getting to Know Your Work Area - History Title Page",
-            "description": "This was a first project to get used to the basics of photshop. We learned about how we can and can't use generative AI during this lesson. We also learned about the basics of brushes and the tools we will use every day in our class.",
-            "images": ["img/lesson3.jpg"]
-        },
-        {
-            "name": "4. Layer Basics - Pineapple Hawaii Postcard",
-            "description": "This asignment taught us about using layers within photoshop, as well as a lot about effects. We learned how to put borders around things",
-            "images": ["img/lesson4.jpg"]
-        },
-        {
-            "name": "5. Basic Photo Corrections - family on bridge",
-            "description": "I learned how to correct photos with the healing tools. I was able to remove spots and scratches, denoise with filters, and sharpen a blury image. We also learned how to recolor images.",
-            "images": ["img/lesson5.jpg"]
-        },
-        {
-            "name": "6. Photo Repair Practice - Part 1",
-            "description": "I practiced all my retouching tools to prepair for my large retouching asingment. I reviewed using AI to retouch, recoloring badly faded images, and also reviewed all my basic retouching tools. I also got to do a retouching on my own",
-            "images": ["img/lesson61.jpg", "img/lesson63.jpg", "img/lesson64.jpg", "img/lesson65.jpg"]
-        },
-        {
-            "name": "6. Photo Repair Practice - Part 2",
-            "description": "I learned how to use Generative AI when I edited a photo of a dad. I used it to switch his jersy.",
-            "images": ["img/lesson62.jpg"]
-        },
-        {
-            "name": "6. Photo Repair Practice - Part 4",
-            "description": "I had a final practice optinon for my personal retouching project. I edited this photo to clean up errors. I used many retouching tools like the spot removal tool and color corrections",
-            "images": ["img/lesson66.jpg"]
-        },
-        {
-            "name": "7. Quick Fixes",
-            "description": "I learned how to make small, quick fixes to photos. One of the best tools was the red eye tool, to remove red eyes from phtos in on click.",
-            "images": ["img/JA_7_columns.jpg", "img/JA_7_egret.jpg", "img/JA_7_redeye.jpg", "img/JA_7_thistle.jpg", "img/JA_7_tren.jpg"]
-        },
-        {
-            "name": "8. Personal Retouching Photo",
-            "description": "This was a personal project where I worked alone to retouch and repair and image. The image I chose was brutal to work on and I'm not 100% happy with the final result, however it still turned out well and tehre is a lot of improvement from the origonal. I had to recolor it and then remove all sorts of scratches, missiing sections, dirt, and stains from the image.",
-            "images": ["img/retouch1b.jpg", "img/retouch1a.jpg"]
-        },
-        {
-            "name": "9. Working with Selections - shell collage",
-            "description": "I used many slection tools to move shells in an image. One of the coolest was the object selection tool, it got objects very quickly. Also, the magnetic lasso is a good mix of automatic and freeform.",
-            "images": ["img/JA_9.jpg"]
-        },
-        {
-            "name": "10. Personal Photobomb Storyboard - all 4 images",
-            "description": "I used selection and warping tools to shrink myself down while workning on my laptop. Mini me was edited to open the giant laptop, design robot parts, and standing there happily when everything is done. I used selction tools like the magnetic lasso and the object selection too to make it possible.",
-            "images": ["img/lesson101.jpg", "img/lesson102.jpg", "img/lesson103.jpg", "img/lesson104.jpg"]
-        }, 
-        {
-            "name": "11. Masks, Patterns, Type Designs ",
-            "description": "We learned a ton about masks and paterns. We made this star patern for the background and also learned a bit about text tracking.",
-            "images": ["img/JA_11AStart_updated2WB.jpg"]
-        },
-        {
-            "name": "12. Advanced Compositing",
-            "description": "We created a fake posted based on compositing things from Frankenstien's Monster's body onto a person. We also overlayed many images. On top of that, we used some custom text.",
-            "images": ["img/JA_FRANKEN_FIINAL.jpg"]
-        },
-        {
-            "name": "13. Any 1 practice painting photo",
-            "description": "I painted an apple and shaded it. Blending colors was quite difficult and took me many tries. The mixer brush can be quite unwiedly, but after I learned to make a selection to paint in, it got a lot better",
-            "images": ["img/app_e.jpg"]
-        },
-        {
-            "name": "14. Personal Painting Project",
-            "description": "I took this chance to do a very complicted painting. I painted a kitten that I found at a friends house because of its fur color. I think it turned out quite well and my skill at the mixer brush greatly improved.",
-            "images": ["img/ja_catbt.jpg"]
-        },
-        {
-            "name": "15. Any 2 Fun Layout Design Options",
-            "description": "I got to do some fun stuff with designs, like this watercolor art of Jim Morrison. I used belnding modes and the paintbrush to do it.",
-            "images": ["img/JA_4th_15P1.jpg"]
-        },
-        {
-            "name": "16. Movie Poster",
-            "description": "I got to make a mostly self guided movie poster. I decided to try and recreate the StarWars: The Force Awakens poster in the style of the StarWars: Return of the Jedi style. I composited and filtered a ton  of images together to make it possible",
-            "images": ["img/forceawakens.jpg"]
-        },
-        {
-            "name": "17. Homework Photo Editing",
-            "description": "I got a final chance to correct my homework photos. I got to color correct so many photos that I took already and that alonew as the biggest change I could imagine. I also messed with contrast and reased small blemishes.",
-            "images": ["img/robotgrab.jpg", "img/jasnowman.jpg", "img/jasnowtree.jpg"]
+            "name": "3. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["img/illlustrator3_1.png", "img/illlustrator3_2.png"]
         }
     ]
 }
