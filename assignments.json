@@ -3,7 +3,81 @@
         {
             "name": "3. Techniques for Selecting Artwork",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
-            "images": ["img/illlustrator3_1.png", "img/illustrator3_2.png"]
+            "images": ["3_1", "3_2"]
+        },        
+        {
+            "name": "4. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["4"]
+        },
+        {
+            "name": "5. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["5"]
+        },
+        {
+            "name": "6. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["6"]
+        },
+        {
+            "name": "8. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["8_1", "8_2"]
+        },
+        {
+            "name": "9. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["9"]
+        },
+        {
+            "name": "10. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["10_1", "10_2","10_3","10_4","10_5","10_6","10_7"]
+        },        
+        {
+            "name": "10b. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["10b"]
+        },
+        {
+            "name": "12. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["12"]
+        },
+        {
+            "name": "13. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["13"]
+        },        {
+            "name": "13a. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["13a"]
+        },
+        {
+            "name": "14. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["14_1", "14_2"]
+        },        
+        {
+            "name": "15. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["15"]
+        },        
+        {
+            "name": "16. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["16"]
+        },
+        {
+            "name": "17. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["17"]
+        },        
+        {
+            "name": "20. Techniques for Selecting Artwork",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["20_1", "20_2", "20_3"]
         }
     ]
 }

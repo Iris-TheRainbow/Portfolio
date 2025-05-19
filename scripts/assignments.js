@@ -25,16 +25,16 @@ function generateAssignments() {
             string += '<div class="long">';
             for (let j = 0; j < assignment.images.length; j++) {
               string +=
-                '<img src="' +
+                '<img src="img/' +
                 assignment.images[j] +
-                ' " style="width: calc(' +
+                '.png" style="width: calc(' +
                 String((1 / assignment.images.length) * 100 - 1) +
                 '% - 10px);">';
             }
             string += '</div>';
           } else {
             string += '<div class="short">';
-                string += '<img src="' + assignment.images[0] + '">';
+                string += '<img src="img/' + assignment.images[0] + '.png">';
             string += '</div>';
           }
           string += '</div>';
