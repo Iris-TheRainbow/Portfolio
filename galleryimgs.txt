@@ -57,6 +57,7 @@ img/14_1.png
 img/JA_7_redeye.jpg
 img/jasnowtree.jpg
 img/ja_catbt.jpg
+img/11.png
 img/10_4.png
 img/JA_7_columns.jpg
 img/13a.png
