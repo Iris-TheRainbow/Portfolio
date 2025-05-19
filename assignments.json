@@ -6,76 +6,81 @@
             "images": ["3_1", "3_2"]
         },        
         {
-            "name": "4. Techniques for Selecting Artwork",
+            "name": "4. Make a Logo with Shapes",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["4"]
         },
         {
-            "name": "5. Techniques for Selecting Artwork",
+            "name": "5. Editing and Combining Shapes and Paths",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["5"]
         },
         {
-            "name": "6. Techniques for Selecting Artwork",
+            "name": "6. Character Creation (cat)",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["6"]
         },
         {
-            "name": "8. Techniques for Selecting Artwork",
+            "name": "8. Graphic Creation Choice Project 1",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["8_1", "8_2"]
         },
         {
-            "name": "9. Techniques for Selecting Artwork",
+            "name": "9. Using Basic Drawing Tools",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["9"]
         },
         {
-            "name": "10. Techniques for Selecting Artwork",
+            "name": "10. Drawing with the Pen Tool",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["10_1", "10_2","10_3","10_4","10_5","10_6","10_7"]
         },        
         {
-            "name": "10b. Techniques for Selecting Artwork",
+            "name": "10B. Pen Tool Application",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["10b"]
+        },        
+        {
+            "name": "11. Pen Tool Self Portrait",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["11"]
         },
         {
-            "name": "12. Techniques for Selecting Artwork",
+            "name": "12. Using Brushes to Create an Ad",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["12"]
         },
         {
-            "name": "13. Techniques for Selecting Artwork",
-            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
-            "images": ["13"]
-        },        {
-            "name": "13a. Techniques for Selecting Artwork",
+            "name": "13A. Brush Exploration",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["13a"]
+        },        {
+            "name": "13. Choice (brush focused) Design",
+            "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
+            "images": ["13"]
         },
         {
-            "name": "14. Techniques for Selecting Artwork",
+            "name": "14. Adding Type to a Poster",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["14_1", "14_2"]
         },        
         {
-            "name": "15. Techniques for Selecting Artwork",
+            "name": "15. Fine Arts Festival Poster",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["15"]
         },        
         {
-            "name": "16. Techniques for Selecting Artwork",
+            "name": "16. Gradients, Blends, and Patterns",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["16"]
         },
         {
-            "name": "17. Techniques for Selecting Artwork",
+            "name": "17. Pictionary Recreation",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["17"]
         },        
         {
-            "name": "20. Techniques for Selecting Artwork",
+            "name": "20. Rebranding Your Business",
             "description": "WE learned how the selection tools work in illustrator, especially objects and anchor points. We also learned how to change the colors of things and adjust the positions of thigns",
             "images": ["20_1", "20_2", "20_3"]
         }
